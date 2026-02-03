@@ -1,53 +1,51 @@
-# Main Goals
+# Channel Rules & Guidelines
 
-## Publish information with subjects:
-* Announces
-* Awareness
-* InfoSec / Information Security / Dev(Sec)Ops, SRE
-* Learning, Webibars, Meetups, Workshops
-* News
-* Relevant articles
-* Researches
-* Sys-Adm.in community activities
-* Tools, Resources, Sources, Repos
+## Content Focus
+We publish information regarding:
+* **Announcements & Awareness**
+* **InfoSec** (Information Security, DevSecOps, SRE)
+* **Learning:** Webinars, Meetups, Workshops
+* **News & Relevant Articles**
+* **Research & Case Studies**
+* **Sys-Adm.in community** activities
+* **Tools, Resources, and Repositories**
 
-## This information will not be published
+---
 
-* Publishing explicit advertising posts
-* Publication of deliberately false information
-* Inciting ethnic hatred
-* Politics
-* etc
+## Prohibited Content
+**The following will NOT be published:**
+* **Scam, fraud, or phishing** of any kind.
+* **Direct links to other Telegram channels/groups** (except for official partnerships).
+* Explicit commercial advertising without prior agreement.
+* Deliberately false or misleading information.
+* Politics or inciting hatred.
 
-## Third party posts/communications
+---
 
-* ### Moderate
-  * All posts will format to "channel format"
-  * Posts shouldn't link to another public's, social networks and etc
-  * Posts may contain links to websites with relevant posts content
-  * All posts will moderate and edit at the discretion of the moderator with subsequent approval
+## Third-Party Posts & Advertising
 
-* ### Minimal Quality Requirements
-  * Posts shall be contains "Title" and "URL" (except notify types messages)
-  * Target websites should be:
-    * Without "iframes"
-    * Information described in text format (not big picture with text)
-    * Uses valid web standards
-    * Adaptive layouts 
-    * It is not - dorks, stub and same etc pages
+### Editorial Policy
+* All posts are formatted to match the channel's style.
+* **No external social media links:** Posts should not link to other public groups or social networks.
+* Links to websites are allowed only if the content is highly relevant.
+* The moderator reserves the right to edit content (subject to final approval).
 
-* ### Publication Format
-  * Possible publication format - 4/48 
-  * Donation
-    * Depended from post context
-      * Benefit suggestions for subscribers 
-      * And/Or donate ~50$
+### Quality Requirements
+* **Structure:** Posts must include a **Title** and **URL** (except for brief notifications).
+* **Landing Page Standards:** * No iframes or intrusive overlays.
+    * Content must be in text format (no "images with text" only).
+    * Must follow valid web standards and have an adaptive (mobile-friendly) layout.
+    * No "dork" pages, stubs, or low-quality parking pages.
 
-## Disclaimer Statement / Exclusions
+### Publication & Fees
+* **Format:** Standard 4/48 (4 hours at the top, 48 hours in the feed).
+* **Pricing & Donations:**
+    * Content providing **clear benefits/discounts** for subscribers may be considered for a lower fee.
+    * Standard sponsored post: **Starting from $50 (Donation).**
 
-* Posts can contain links to another publics, social networks in case of mutual exchange of posts
-* https://lab.sys-adm.in/en/disclaimer/
+---
 
-## Channel link
-* https://t.me/sysadm_in_channel
+## Disclaimer & Exceptions
+* Links to other communities are permitted **only** in cases of official mutual exchange.
 
+**Channel:** [@sysadm_in_channel](https://t.me/sysadm_in_channel)
