@@ -2,7 +2,7 @@
 
 ## Content Focus
 We publish information regarding:
-* **Announcements & Awareness**
+* * **Announcements, Awareness & Education**
 * **InfoSec** (Information Security, DevSecOps, SRE)
 * **Learning:** Webinars, Meetups, Workshops
 * **News & Relevant Articles**
@@ -14,7 +14,7 @@ We publish information regarding:
 
 ## Prohibited Content
 **The following will NOT be published:**
-* **Scam, fraud, or phishing** of any kind.
+* * **Scam, fraud, phishing, or traffic manipulation** of any kind.
 * **Direct links to other Telegram channels/groups** (except for official partnerships).
 * Explicit commercial advertising without prior agreement.
 * Deliberately false or misleading information.
@@ -32,7 +32,8 @@ We publish information regarding:
 
 ### Quality Requirements
 * **Structure:** Posts must include a **Title** and **URL** (except for brief notifications).
-* **Landing Page Standards:** * No iframes or intrusive overlays.
+* **Landing Page Standards:**
+    * No iframes or intrusive overlays.
     * Content must be in text format (no "images with text" only).
     * Must follow valid web standards and have an adaptive (mobile-friendly) layout.
     * No "dork" pages, stubs, or low-quality parking pages.
