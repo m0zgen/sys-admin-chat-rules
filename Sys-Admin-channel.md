@@ -2,7 +2,7 @@
 
 ## Content Focus
 We publish information regarding:
-* * **Announcements, Awareness & Education**
+* **Announcements, Awareness & Education**
 * **InfoSec** (Information Security, DevSecOps, SRE)
 * **Learning:** Webinars, Meetups, Workshops
 * **News & Relevant Articles**
@@ -14,7 +14,7 @@ We publish information regarding:
 
 ## Prohibited Content
 **The following will NOT be published:**
-* * **Scam, fraud, phishing, or traffic manipulation** of any kind.
+* **Scam, fraud, phishing, or traffic manipulation** of any kind.
 * **Direct links to other Telegram channels/groups** (except for official partnerships).
 * Explicit commercial advertising without prior agreement.
 * Deliberately false or misleading information.
